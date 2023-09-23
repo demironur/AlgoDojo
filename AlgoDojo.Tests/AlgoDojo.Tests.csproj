@@ -26,4 +26,8 @@
     <ProjectReference Include="..\AlgoDojo\AlgoDojo.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="NeetCode\Arrays&amp;Hashing\" />
+  </ItemGroup>
+
 </Project>
