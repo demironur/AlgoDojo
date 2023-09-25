@@ -28,6 +28,7 @@
 
   <ItemGroup>
     <Folder Include="NeetCode\Arrays&amp;Hashing\" />
+    <Folder Include="NeetCode\Stacks\" />
   </ItemGroup>
 
 </Project>
